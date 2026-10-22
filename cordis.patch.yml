@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-decision-review 的组合层
+- insert:
+    - id: decision-review
+      name: '@deepwhale-cn/dsh-decision-review'
